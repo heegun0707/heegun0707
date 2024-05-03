@@ -11,7 +11,6 @@
 ### IDEs, Platforms
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ### Design
 ![Zeplin](https://img.shields.io/badge/zeplin-%23FFD700.svg?style=for-the-badge) 
@@ -49,8 +48,9 @@
   * WorkManager  
 - Coroutines
 - RxJava2
+- Flow
+- Hilt
+- Retrofit
 - Glide
 - Gson
-- Hilt
 - KTX
-- Retrofit
