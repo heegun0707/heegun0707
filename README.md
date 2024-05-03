@@ -12,7 +12,7 @@
 
 ### Design
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Zeplin](https://img.shields.io/badge/zeplin-%51C9F2.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Zeplin](https://zeplin-%FFD700.svg?style=for-the-badge) 
 
 ### Databases
 
