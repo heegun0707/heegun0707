@@ -5,9 +5,8 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heegun0707&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-# Badges
-
-### Frameworks, Platforms and Libraries
+# Skiils
+### Frameworks, Platforms
 
 ### Design
 
@@ -30,6 +29,9 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+### Cooperations
+![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
 ### Used libraries
 - AAC
